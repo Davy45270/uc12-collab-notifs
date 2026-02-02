@@ -1,2 +1,3 @@
-# uc12-collab-notifs
-UC12 Collaboration &amp; notifications
+# UC12 Collaboration & notifications
+
+Use case repo for UC12 Collaboration & notifications.
